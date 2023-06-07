@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="268d9f4a-c879-4a39-a612-e699f4ef2f18" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Applied_statistics_project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Applied_statistics_project.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streaming_services.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UBER.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/statistical_analysis_project/insurance.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FSDS_Stacking.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +24,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
@@ -38,6 +38,7 @@
       <option name="presentableId" value="Default" />
       <updated>1686145093610</updated>
       <workItem from="1686145098757" duration="69000" />
+      <workItem from="1686150826349" duration="900000" />
     </task>
     <servers />
   </component>
