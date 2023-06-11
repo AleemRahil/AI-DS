@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="268d9f4a-c879-4a39-a612-e699f4ef2f18" name="Changes" comment="" />
+    <list default="true" id="268d9f4a-c879-4a39-a612-e699f4ef2f18" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/CNN Implementation/convolutional_neural_network.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CNN Implementation/convolutional_neural_network.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,6 +72,7 @@
       <workItem from="1686331276658" duration="327000" />
       <workItem from="1686331626069" duration="237000" />
       <workItem from="1686413691490" duration="1139000" />
+      <workItem from="1686448151276" duration="1106000" />
     </task>
     <servers />
   </component>
