@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="268d9f4a-c879-4a39-a612-e699f4ef2f18" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/CNN Implementation/convolutional_neural_network.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CNN Implementation/convolutional_neural_network.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLP and Deep Learning Techniques for Stock Sentiment Analysis/Analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NLP and Deep Learning Techniques for Stock Sentiment Analysis/Analysis.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +74,7 @@
       <workItem from="1686331626069" duration="237000" />
       <workItem from="1686413691490" duration="1139000" />
       <workItem from="1686448151276" duration="1106000" />
+      <workItem from="1686510056388" duration="64000" />
     </task>
     <servers />
   </component>
